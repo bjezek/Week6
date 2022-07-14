@@ -22,9 +22,11 @@ drop NaValues set neighborhoods as index display database
 plot GeoViews to see the concentration of data related to neighborhoods to see best opportunity
 for investment. 
 
- I would invest in Financal District North, Corona Heights, Croker Amazon & Cow hollow, they are staring to trend upwards and the
-# expansion trend looks to be just starting heading into 2016. I believe it would be wise to say away from 
-# Buena Vista Park due to the expansion line trending for several years and is one of the lowest sqft and rent combos in San Fransisco. Now and I feel like we might have
-# missed it when it was really cheap! but still not bad just not as good as the other onces I listed above. The
-# neighborhoods I listed as good investment and rental opportunites are sure to be portfoitable, I believe the 
-#Have a strong sqt to gross rent relationship over the other neighborhoods listed. 
+# Analysis of San-Fran housing opportunity
+
+I would invest in Financal District North, Corona Heights, Croker Amazon & Cow hollow, they are staring to trend upwards and the
+expansion trend looks to be just starting heading into 2016. I believe it would be wise to say away from 
+ Buena Vista Park due to the expansion line trending for several years and is one of the lowest sqft and rent combos in San Fransisco. Now and I feel like we might have
+ missed it when it was really cheap! but still not bad just not as good as the other onces I listed above. The
+ neighborhoods I listed as good investment and rental opportunites are sure to be portfoitable, I believe the 
+Have a strong sqt to gross rent relationship over the other neighborhoods listed. 
